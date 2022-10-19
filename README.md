@@ -1,6 +1,6 @@
 # Humberger Shop Web Design
 
-Web Design idea Crd By Myo Maung Youtube Channel
+Web Design idea Crd By [Myo Maung Youtube Channel](https://www.youtube.com/c/MyoMaung)
 
 Prototype
 
